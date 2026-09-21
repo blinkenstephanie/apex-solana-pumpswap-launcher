@@ -9,7 +9,7 @@ Topics:      solana, pumpfun, pump-fun, pumpswap, pump-swap, token-launcher, sol
 
 <div align="center">
 
-<img src="assets/apex-hero-banner.png" alt="APEX — Self-hosted Solana launch and trade terminal" width="100%" />
+<img src="assets/01-landing.png" alt="APEX live launch desk on apexlauncher.fun" width="100%" />
 
 # APEX — Solana Pump.fun / PumpSwap Launch & Trade Terminal
 
@@ -18,7 +18,7 @@ Topics:      solana, pumpfun, pump-fun, pumpswap, pump-swap, token-launcher, sol
 **Pump.fun launches → PumpSwap pools · seed liquidity · Jito-style atomic wallet bundles**  
 **Self-hosted Solana trading terminal — your RPC, your keys, your control.**
 
-<img src="assets/apex-price-badge.png" alt="Lifetime access 3 SOL" width="280" />
+<img src="assets/12-price-badge.png" alt="Lifetime access 3 SOL" width="280" />
 
 <br />
 
@@ -74,31 +74,21 @@ Most Solana launch tooling is either:
 
 ---
 
-## Product look
+## Product look (real UI from [apexlauncher.fun](https://apexlauncher.fun))
 
-### Live terminal ([apexlauncher.fun](https://apexlauncher.fun))
-
-| Landing | Create Pool | Wallets | Playbooks |
+| Launch desk | Create Pool | Pool form | Wallets |
 | --- | --- | --- | --- |
-| ![APEX hero](assets/01-hero.png) | ![Create Pool](assets/02-launch.png) | ![Wallets](assets/03-trade-or-wallets.png) | ![Overview](assets/04-overview.png) |
+| ![Landing](assets/01-landing.png) | ![Create Pool](assets/02-create-pool.png) | ![Pool form](assets/03-create-pool-form.png) | ![Wallets](assets/04-wallets.png) |
 
-### Operator walkthrough (demo frames)
-
-| Launch + bonding | Multi-wallet bundles | Trade control |
+| Strategy | Atomic cycle | Cycle + live log |
 | --- | --- | --- |
-| ![Demo launch](assets/apex-demo-frame-01.png) | ![Demo bundles](assets/apex-demo-frame-02.png) | ![Demo trade](assets/apex-demo-frame-03.png) |
+| ![Strategy](assets/05-strategy.png) | ![Cycle](assets/06-cycle.png) | ![Cycle log](assets/07-cycle-log.png) |
+
+> Screenshots are the live product UI (empty-state / 0 wallets on the public demo). After purchase you run the same terminal self-hosted with your wallets.
 
 ---
 
 ## Use cases (who buys APEX)
-
-<div align="center">
-
-| Launch path | Bundles | Liquidity + trade |
-| :---: | :---: | :---: |
-| ![Create → Bond → Migrate](assets/apex-card-launch.png) | ![Multi-wallet atomic bundles](assets/apex-card-bundles.png) | ![Seed liquidity + trade control](assets/apex-card-liquidity.png) |
-
-</div>
 
 
 ### 1) Pump.fun → PumpSwap launch ops
