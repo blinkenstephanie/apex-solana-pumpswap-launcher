@@ -3,7 +3,7 @@
 ### Token launcher · multi-wallet bundler · liquidity tooling · trade terminal
 
 **Pump.fun launches → PumpSwap pools · seed liquidity · multi-wallet atomic bundles**  
-**Use it on the web — or email for the full source and run it yourself.**
+**Use it on the web — buy full source — or help unlock open source (100 SOL donated / 1,000 stars).**
 
 [![Product](https://img.shields.io/badge/Product-apexlauncher.fun-14F195?style=for-the-badge&labelColor=0A0A0F)](https://apexlauncher.fun)
 [![Use online](https://img.shields.io/badge/Use_online-0.8%25_fee-A78BFA?style=for-the-badge&labelColor=0A0A0F)](https://apexlauncher.fun)
@@ -34,6 +34,7 @@ You can:
 | Price | **0.8%** fee | **15 SOL** one-time |
 | How to start | Open the site and go | Email interest → we reply with next steps |
 
+
 ### Option A — Use on the web (0.8%)
 
 1. Open **[apexlauncher.fun](https://apexlauncher.fun)**  
@@ -59,7 +60,31 @@ Want every file so you can run APEX **locally**? Full source is available for **
 2. Tell us you’re interested in the **15 SOL full source** (run locally).
 3. We’ll reply with payment details and deliver the **full source package** after confirmation.
 
-No public wallet on this page — payment details are sent only after you email.
+For the **15 SOL source purchase**, payment details are sent only after you email (not the same as the public donation wallet below).
+
+---
+
+---
+## Open-source pledge
+
+We will **open-source the full APEX codebase** when **either** of these is reached:
+
+1. **100 SOL** in community donations, **or**
+2. **1,000 stars** on this GitHub repository
+
+Until then you can still **use the product** on [apexlauncher.fun](https://apexlauncher.fun) (**0.8%** fee) or **buy the full source now** for **15 SOL** (email interest — see Option B).
+
+### Donate toward open source
+
+Send **SOL** to the public donation wallet:
+
+```
+BrVEU6aZ4RDaG5viqbr9yWeSRufYjmy7TBvx5WoHTxXB
+```
+
+Optional but helpful: email **[blinkenstephanie@gmail.com](mailto:blinkenstephanie@gmail.com?subject=APEX%20donation)** with your tx signature so we can credit the total.
+
+⭐ **Star this repo** to help hit the 1,000-star unlock.
 
 ---
 
@@ -146,9 +171,11 @@ Most Solana launch tooling is either:
 ## Trust notes
 
 - Live product: **[apexlauncher.fun](https://apexlauncher.fun)** — **0.8%** fee  
-- Full source: **15 SOL** — email **[blinkenstephanie@gmail.com](mailto:blinkenstephanie@gmail.com?subject=APEX%20full%20source%20interest%20-%2015%20SOL)** with interest; we reply with payment + delivery  
+- Full source now: **15 SOL** — email **[blinkenstephanie@gmail.com](mailto:blinkenstephanie@gmail.com?subject=APEX%20full%20source%20interest%20-%2015%20SOL)** with interest; we reply with payment + delivery  
+- **Open-source unlock:** **100 SOL** donated **or** **1,000 stars** on this repo — see [Open-source pledge](#open-source-pledge)  
+- Donation wallet (public): `BrVEU6aZ4RDaG5viqbr9yWeSRufYjmy7TBvx5WoHTxXB`  
 - This GitHub page is the public sales / discovery page  
-- Source is **not** in this public repo — delivered after the **15 SOL** purchase  
+- Source is **not** in this public repo yet — buy **15 SOL** now, or wait for the open-source unlock
 
 ---
 
@@ -166,6 +193,13 @@ The **complete project source** — everything you need to run APEX **locally** 
 **Where do I send payment?**  
 Email us first. We reply with payment details after you show interest — nothing is posted publicly here.
 
+
+**Will APEX be open source?**  
+Yes — when we reach **100 SOL** in donations **or** **1,000 stars** on this repository (whichever comes first). You can also buy the full source now for **15 SOL**.
+
+**Where do I donate?**  
+Send SOL to `BrVEU6aZ4RDaG5viqbr9yWeSRufYjmy7TBvx5WoHTxXB`. Optional: email the tx signature to blinkenstephanie@gmail.com so we can track the total.
+
 **Pump.fun and PumpSwap both?**  
 Yes — launch workflows including PumpSwap pool / liquidity work and multi-wallet bundles.
 
@@ -180,6 +214,36 @@ Open [apexlauncher.fun](https://apexlauncher.fun).
 
 **Use online (0.8%)** → **[apexlauncher.fun](https://apexlauncher.fun)**  
 
-**Own the full source (15 SOL)** → email **[blinkenstephanie@gmail.com](mailto:blinkenstephanie@gmail.com?subject=APEX%20full%20source%20interest%20-%2015%20SOL)**
+**Own the full source (15 SOL)** → email **[blinkenstephanie@gmail.com](mailto:blinkenstephanie@gmail.com?subject=APEX%20full%20source%20interest%20-%2015%20SOL)**  
+**Open-source unlock** → **100 SOL** donated or **1,000 stars** — donate to `BrVEU6aZ4RDaG5viqbr9yWeSRufYjmy7TBvx5WoHTxXB` or ⭐ this repo
 
-APEX · Solana token launcher · Pump.fun · PumpSwap · bundler · trading terminal · full source available
+APEX · Solana token launcher · Pump.fun · PumpSwap · bundler · trading terminal · full source available · open-source pledge
+
+| How to start | Open the site and go | Email interest → we reply with next steps |
+
+### Option A — Use on the web (0.8%)
+
+1. Open **[apexlauncher.fun](https://apexlauncher.fun)**  
+2. Launch → seed liquidity → bundle → trade in the product UI  
+3. Pay only **0.8%** as you use it  
+
+**[Start on apexlauncher.fun →](https://apexlauncher.fun)**
+
+### Option B — Full source · 15 SOL
+
+Want every file so you can run APEX **locally**? Full source is available for **15 SOL**.
+
+**What you receive**
+
+- The **complete source code** (all project files)
+- Enough to **run APEX on your own machine**
+- Same launch / bundler / PumpSwap / trade stack the product is built around
+
+**How to get it**
+
+1. Email **[blinkenstephanie@gmail.com](mailto:blinkenstephanie@gmail.com?subject=APEX%20full%20source%20interest%20-%2015%20SOL)**  
+   Subject: `APEX full source interest - 15 SOL`
+2. Tell us you’re interested in the **15 SOL full source** (run locally).
+3. We’ll reply with payment details and deliver the **full source package** after confirmation.
+
+For the **15 SOL source purchase**, payment details are sent only after you email (not the same as the public donation wallet below).
