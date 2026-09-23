@@ -11,7 +11,7 @@
 
 **[Open apexlauncher.fun →](https://apexlauncher.fun)**
 
-APEX is a **private** Solana launch & trade product. You use it on [apexlauncher.fun](https://apexlauncher.fun) for a **0.8% fee**. This GitHub page is for discovery and positioning only — **we do not distribute the repo/source** as a download or lifetime license.
+APEX is a **private** Solana launch & trade product. You use it on [apexlauncher.fun](https://apexlauncher.fun) for a **0.8% fee**. This GitHub page is for discovery and positioning only — **we do not distribute the repo/source** as a download.
 
 ---
 
@@ -30,7 +30,7 @@ Search terms this page is for:
 
 > **How to use it:** go to [apexlauncher.fun](https://apexlauncher.fun) and run launches/trades there.  
 > **Pricing:** **0.8%** fee.  
-> **Not for sale as source:** this is not a 3 SOL download, not an open-source pack, and not a public app repo dump.
+> **Not for sale as source:** this is not a  download, not an open-source pack, and not a public app repo dump.
 
 ---
 
@@ -82,7 +82,7 @@ Most Solana launch tooling is either:
 2. Use the launch & trade terminal in the product UI  
 3. Launch → seed liquidity → bundle → trade  
 
-**Fee: 0.8%.** No source download. No lifetime 3 SOL license.
+**Fee: 0.8%.** No source download. No lifetime  license.
 
 ---
 
@@ -125,7 +125,7 @@ No. APEX is private. You use it on [apexlauncher.fun](https://apexlauncher.fun).
 **What does it cost?**  
 **0.8%** fee to use on the site.
 
-**Is this still a 3 SOL lifetime sale?**  
+**Is this still a  lifetime sale?**  
 No. That model is retired. Website use with **0.8%** fees only.
 
 **Pump.fun and PumpSwap both?**  
