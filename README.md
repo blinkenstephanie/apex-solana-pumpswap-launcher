@@ -82,7 +82,7 @@ Most Solana launch tooling is either:
 2. Use the launch & trade terminal in the product UI  
 3. Launch → seed liquidity → bundle → trade  
 
-**Fee: 0.8%.** No source download. No lifetime  license.
+**Fee: 0.8%.** No source download. Private web product only.
 
 ---
 
@@ -113,7 +113,7 @@ Most Solana launch tooling is either:
 - Live product: **[apexlauncher.fun](https://apexlauncher.fun)**  
 - Fee: **0.8%**  
 - This repository is a **public discovery page** for a **private** product  
-- We **do not** email source packs, sell lifetime downloads, or open the private project as a public install repo
+- We **do not** email source packs, distribute source downloads, or open the private project as a public install repo
 
 ---
 
@@ -125,8 +125,8 @@ No. APEX is private. You use it on [apexlauncher.fun](https://apexlauncher.fun).
 **What does it cost?**  
 **0.8%** fee to use on the site.
 
-**Is this still a  lifetime sale?**  
-No. That model is retired. Website use with **0.8%** fees only.
+**Access:**  
+Website use with **0.8%** fees only.
 
 **Pump.fun and PumpSwap both?**  
 Yes — launch workflows including PumpSwap pool / liquidity work and multi-wallet bundles.
